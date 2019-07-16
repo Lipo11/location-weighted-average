@@ -1,0 +1,24 @@
+{
+  "name": "location-weighted-average",
+  "version": "1.0.0",
+  "description": "Do you need location weighted average? You can use my library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lipo11/location-weighted-average.git"
+  },
+  "keywords": [
+    "location",
+    "weighted",
+    "average"
+  ],
+  "author": "Alex Polomcak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lipo11/location-weighted-average/issues"
+  },
+  "homepage": "https://github.com/Lipo11/location-weighted-average#readme"
+}
